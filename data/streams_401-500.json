@@ -5,7 +5,7 @@
     "name": "电视频道",
     "icon": "https://img11.litenews.cn/403/2024/02/23/913f6afe516982c9ca22ccec62ef246e.jpg",
     "logo": "https://img11.litenews.cn/403/2024/02/23/c6c99c1cd11bd1aa8dbdc634ea192f69.jpg",
-    "stream": "https://alivealone302.litenews.cn/403/f8915ca36bb94058ba325969d63fd660/playlist.m3u8?k=a84c9bf184acf9663d90960a0fc6b38c&t=1759138925",
+    "stream": "https://alivealone302.litenews.cn/403/f8915ca36bb94058ba325969d63fd660/playlist.m3u8?k=7f6fe33f59077683d29653d2bfb52d19&t=1759375302",
     "desc": "电视频道",
     "id": 5,
     "cateid": 0,
@@ -23,7 +23,7 @@
     "name": "爱车940视频直播",
     "icon": "https://img11.litenews.cn/403/2023/08/24/fef9540d930f2c49dea73bf204733de0.png",
     "logo": "https://img11.litenews.cn/403/2023/08/24/fef9540d930f2c49dea73bf204733de0.png",
-    "stream": "https://alivealone302.litenews.cn/403/ba21db25c2df4d42acadfaca7ee09136/playlist.m3u8?k=226afd4c63ca44e0bb10bf01b71a38f4&t=1759138925",
+    "stream": "https://alivealone302.litenews.cn/403/ba21db25c2df4d42acadfaca7ee09136/playlist.m3u8?k=b9ca85e9eb408a6f5b02e30bb6f51676&t=1759375302",
     "desc": "爱车940视频直播",
     "id": 1,
     "cateid": 0,
@@ -32,6 +32,25 @@
       "title": "爱车940视频直播",
       "image": "https://img11.litenews.cn/403/2023/08/24/fef9540d930f2c49dea73bf204733de0.png",
       "url": "https://iapp.hichengyang.cn/share/dHZsLTQwMy0x.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 421,
+    "index": 0,
+    "name": "潍坊高新区",
+    "icon": "https://img11.iqilu.com/421/2022/09/26/43ddf0d03c3d51602cc981f214ef0ddf.jpeg",
+    "stream": "https://alivealone302.litenews.cn/421/73c76d35421345028653ea23a53db553/playlist.m3u8?k=aaa07b6386842e51f74e6edfe5330797&t=1759375309",
+    "desc": "“潍坊高新频道”是潍坊国家高新技术产业开发区官方电视频道。",
+    "id": 14,
+    "state": 1,
+    "logo": "https://img11.iqilu.com/421/2022/09/26/43ddf0d03c3d51602cc981f214ef0ddf.jpeg",
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "潍坊高新区",
+      "image": "https://img11.iqilu.com/421/2022/09/26/43ddf0d03c3d51602cc981f214ef0ddf.jpeg",
+      "url": "https://iapp.wegood.wang/share/dHZsLTQyMS0xNA.html",
       "desc": "点击观看精彩节目"
     }
   }
